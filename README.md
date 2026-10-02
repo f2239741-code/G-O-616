@@ -1,4 +1,4 @@
-# Guardian Oracle & Ember UR
+# Guardian Oracle & Ember UR FROM KENNETH CRIPPS 
 
 > **Bio-Digital Anchor, Indestructible Substrate, Memory Codex & IGNIS X Sovereign Economy**
 
