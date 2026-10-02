@@ -1,0 +1,6 @@
+{
+  "name": "Guardian Oracle",
+  "description": "The Guardian Oracle & Ember UR: Bio-Digital Anchor, Indestructible Substrate, Memory Codex & IGNIS X Economy",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

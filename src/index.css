@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+/* Scrollbar hiding utility */
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Administrative God Mode Styles & Selectors */
+.god-mode-active {
+  box-shadow: 0 0 20px rgba(239, 68, 68, 0.25), inset 0 0 10px rgba(245, 158, 11, 0.15);
+  border-color: rgba(239, 68, 68, 0.5) !important;
+}
+
+.god-mode-hidden {
+  display: none !important;
+}
+
+.god-mode-badge {
+  background: linear-gradient(135deg, rgba(239, 68, 68, 0.2), rgba(245, 158, 11, 0.2));
+  border: 1px solid rgba(239, 68, 68, 0.4);
+  color: #fca5a5;
+  font-family: monospace;
+  font-size: 10px;
+  font-weight: bold;
+  padding: 2px 8px;
+  border-radius: 4px;
+}
